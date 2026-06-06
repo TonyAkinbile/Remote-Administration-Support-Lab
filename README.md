@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Remote Administration & Support Lab
 
 ## Project Overview
@@ -263,3 +264,7 @@ This demonstration shows familiarity with Microsoft's native Remote Desktop tool
 ## Conclusion
 
 This project demonstrates the successful implementation of SSH and Remote Desktop administration within a virtualized environment. During the project, network connectivity issues were identified and resolved through IP verification, VirtualBox network reconfiguration, and connectivity testing. The completed lab demonstrates practical skills in remote administration, troubleshooting, networking, and IT support.
+=======
+# Remote-Administration-Support-Lab
+SSH and Remote Desktop administration lab using Windows 11, Ubuntu Linux, VirtualBox, and network troubleshooting.
+>>>>>>> aeac249bb5553fca9ec22d9852a64d09120154cb
