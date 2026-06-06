@@ -11,6 +11,21 @@ During implementation, network connectivity issues were encountered due to Virtu
 
 The project demonstrates practical IT support skills including remote administration, network troubleshooting, connectivity testing, firewall configuration, and virtual machine management.
 
+
+## Skills Demonstrated
+
+- Remote Administration
+- SSH
+- Remote Desktop Protocol (RDP)
+- Linux Administration
+- Windows Administration
+- VirtualBox
+- Network Troubleshooting
+- Firewall Configuration
+- TCP/IP Networking
+- Technical Documentation
+
+
 ## Technologies Used
 
 * Ubuntu Linux
